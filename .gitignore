@@ -1,0 +1,11 @@
+# Trained weights (downloaded with gdown, too large for git)
+*.h5
+*.keras
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
