@@ -72,7 +72,7 @@ The rules of the project were strict: the solution had to rely entirely on neura
 
 ## Running it
 
-The easiest way is Google Colab: [open the notebook in Colab](https://colab.research.google.com/github/L5900/jigsaw-transformer/blob/main/jigsaw_puzzle.ipynb) and run all cells. The notebook:
+The easiest way is Google Colab: [open the notebook in Colab](https://colab.research.google.com/github/luca-de-rosa/jigsaw-transformer/blob/main/jigsaw_puzzle.ipynb) and run all cells. The notebook:
 
 - downloads the [STL-10](http://ai.stanford.edu/~acoates/stl10/) dataset (unlabelled split, 100,000 images, about 2.6 GB; this takes a few minutes);
 - downloads my trained weights (45 MB) from Google Drive with `gdown`, so no training is needed;
